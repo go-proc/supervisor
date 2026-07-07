@@ -1,0 +1,7 @@
+# Go test binaries left by `go test -c` or an interrupted run.
+*.test
+
+# Coverage profiles from `go test -coverprofile` / the CI coverage gate.
+cover.out
+*.cover
+coverage.txt
