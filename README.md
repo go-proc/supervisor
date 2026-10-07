@@ -5,7 +5,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-proc/supervisor.svg)](https://pkg.go.dev/github.com/go-proc/supervisor)
 [![Docs](https://img.shields.io/badge/docs-mkdocs--material-B45309)](https://go-proc.github.io/docs/)
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue)](LICENSE)
-[![Go](https://img.shields.io/badge/go-1.26.4%2B-00ADD8)](https://go.dev/dl/)
+[![Go](https://img.shields.io/badge/go-1.27.1%2B-00ADD8)](https://go.dev/dl/)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-1a7f37)](#tests--coverage)
 
 **Pure-Go (no cgo) PID-1 process supervision** — a subreaper that collects
